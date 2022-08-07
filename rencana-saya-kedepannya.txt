@@ -3,5 +3,5 @@ RENCANA SAYA KEDEPANNYA
 - JAVASCRIPT
     *Framework Javascript
 - CSS GRID
-- CSS UNIT
 - MEMBUAT GAMES
+   *game perang
